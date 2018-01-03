@@ -4,9 +4,15 @@ Description:  Package names found in cpanfile.snapshot
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   Carton v1.0.28
-Line-Count:   135
-Last-Updated: Sat Dec 30 19:42:47 2017
+Line-Count:   199
+Last-Updated: Wed Jan  3 17:18:03 2018
 
+Data::MessagePack                  1.00  S/SY/SYOHEX/Data-MessagePack-1.00.tar.gz
+Data::MessagePack::Boolean        undef  S/SY/SYOHEX/Data-MessagePack-1.00.tar.gz
+Data::MessagePack::PP             undef  S/SY/SYOHEX/Data-MessagePack-1.00.tar.gz
+File::Copy::Recursive              0.39  D/DM/DMUEY/File-Copy-Recursive-0.39.tar.gz
+File::Slurp                     9999.19  U/UR/URI/File-Slurp-9999.19.tar.gz
+FileSlurp_12                    9999.13  U/UR/URI/File-Slurp-9999.19.tar.gz
 LinkCheck                         undef  S/SR/SRI/Minion-8.0.tar.gz
 LinkCheck::Controller::Links      undef  S/SR/SRI/Minion-8.0.tar.gz
 LinkCheck::Task::CheckLinks       undef  S/SR/SRI/Minion-8.0.tar.gz
@@ -63,13 +69,13 @@ Mojo::Promise                     undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojo::Reactor                     undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojo::Reactor::EV                 undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojo::Reactor::Poll               undef  S/SR/SRI/Mojolicious-7.56.tar.gz
-Mojo::Redis2                       0.28  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
-Mojo::Redis2::Backend             undef  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
-Mojo::Redis2::Bulk                undef  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
-Mojo::Redis2::Client              undef  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
-Mojo::Redis2::Cursor              undef  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
-Mojo::Redis2::Server              undef  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
-Mojo::Redis2::Transaction          0.01  J/JH/JHTHORSEN/Mojo-Redis2-0.28.tar.gz
+Mojo::Redis2                       0.30  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
+Mojo::Redis2::Backend             undef  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
+Mojo::Redis2::Bulk                undef  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
+Mojo::Redis2::Client              undef  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
+Mojo::Redis2::Cursor              undef  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
+Mojo::Redis2::Server              undef  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
+Mojo::Redis2::Transaction          0.01  D/DB/DBOOK/Mojo-Redis2-0.30.tar.gz
 Mojo::Server                      undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojo::Server::CGI                 undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojo::Server::Daemon              undef  S/SR/SRI/Mojolicious-7.56.tar.gz
@@ -139,6 +145,64 @@ Mojolicious::Types                undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojolicious::Validator            undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 Mojolicious::Validator::Validation undef  S/SR/SRI/Mojolicious-7.56.tar.gz
 ojo                               undef  S/SR/SRI/Mojolicious-7.56.tar.gz
+Path::Iter                          0.2  D/DM/DMUEY/Path-Iter-0.2.tar.gz
 Protocol::Redis                  1.0004  U/UN/UNDEF/Protocol-Redis-1.0004.tar.gz
 Protocol::Redis::Test             undef  U/UN/UNDEF/Protocol-Redis-1.0004.tar.gz
+Sub::Uplevel                     0.2800  D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
+Test::Deep                        1.127  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::All                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Any                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Array                 undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ArrayEach             undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ArrayElementsOnly     undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ArrayLength           undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ArrayLengthOnly       undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Blessed               undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Boolean               undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Cache                 undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Cache::Simple         undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Class                 undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Cmp                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Code                  undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Hash                  undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::HashEach              undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::HashElements          undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::HashKeys              undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::HashKeysOnly          undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Ignore                undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Isa                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ListMethods           undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Methods               undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::MM                    undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::None                  undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::NoTest                undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Number                undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Obj                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Ref                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::RefType               undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Regexp                undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::RegexpMatches         undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::RegexpOnly            undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::RegexpRef             undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::RegexpRefOnly         undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::RegexpVersion         undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ScalarRef             undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::ScalarRefOnly         undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Set                   undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Shallow               undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::Stack                 undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::String                undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SubHash               undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SubHashElements       undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SubHashKeys           undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SubHashKeysOnly       undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SuperHash             undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SuperHashElements     undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SuperHashKeys         undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Deep::SuperHashKeysOnly     undef  R/RJ/RJBS/Test-Deep-1.127.tar.gz
+Test::Exception                    0.43  E/EX/EXODIST/Test-Exception-0.43.tar.gz
+Test::File                        1.443  B/BD/BDFOY/Test-File-1.443.tar.gz
 Test::Mojo                        undef  S/SR/SRI/Mojolicious-7.56.tar.gz
+Test::Requires                     0.10  T/TO/TOKUHIROM/Test-Requires-0.10.tar.gz
+Test::Warn                         0.32  B/BI/BIGJ/Test-Warn-0.32.tar.gz
+Test::Warn::Categorization         0.32  B/BI/BIGJ/Test-Warn-0.32.tar.gz

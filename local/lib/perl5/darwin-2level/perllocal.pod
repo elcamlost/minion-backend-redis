@@ -372,3 +372,135 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Wed Jan  3 15:13:10 2018: C<Module> L<Mojo::Redis2|Mojo::Redis2>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/camlost/devel/minion-backend-redis/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan  3 17:18:06 2018: C<Module> L<ExtUtils::Depends|ExtUtils::Depends>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/camlost/devel/minion-backend-redis/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.405>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan  3 17:18:09 2018: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/camlost/devel/minion-backend-redis/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan  3 17:18:09 2018: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/camlost/devel/minion-backend-redis/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan  3 17:18:11 2018: C<Module> L<XS::Object::Magic|XS::Object::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/camlost/devel/minion-backend-redis/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan  3 17:18:13 2018: C<Module> L<Protocol::Redis::XS|Protocol::Redis::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/camlost/devel/minion-backend-redis/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
